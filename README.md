@@ -2,6 +2,8 @@
 Official implementation of the paper "Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection"
 ## Global-Regularized Neighborhood Regression for Efficient Zero-Shot Texture Anomaly Detection
 IEEE Transactions on Systems, Man and Cybernetics: Systems(under review)
+## GRNR Framework
+![GRNR](GRNR.png)
 ## BibTex Citation
 If you like our paper or code, please use the following BibTex:
 
@@ -14,4 +16,4 @@ If you like our paper or code, please use the following BibTex:
 
 ## Demo
 - Directly running the python code main.py(Please specify the test image path before running), you will get the results:
-
+![demo](demo.png)
